@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kuldeep Ahire
 
-### MCA Student | Frontend Developer | Web Developer 
+### MCA Student | Frontend Developer 
 
 I am an MCA student passionate about **software development, databases, and data-driven applications**. I enjoy building real-world projects and continuously improving my technical and problem-solving skills.
 
